@@ -1,3 +1,3 @@
-variable "tag_names" {
+variable "tag_name" {
   default = "default-tag"
 }
